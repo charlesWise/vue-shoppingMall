@@ -1,14 +1,14 @@
-# vue-shoppingMall 移动端Vue-SPA  vuejs,vue-router, vue-cli, webpack,s6
+# vue-shoppingMall 移动端Vue-SPA  vuejs,vue-router, vue-cli, webpack,es6
 
 ## https://github.com/chenrunsheng1991/vue-shoppingMall.git
 ## 安装：
-  <pre>npm install</pre>
+  npm install
 ## 运行：
-  <pre>npm run dev</pre>
+  npm run dev
 ## 发布：
-  <pre>npm run build</pre>
+  npm run build
 ## 地址:
-  <pre>http://localhost:8888</pre>
+  http://localhost:8888
 ## 目录结构
 <pre>
 ├─  .gitignore          # 忽略无需git控制的文件  比如 node_modules
